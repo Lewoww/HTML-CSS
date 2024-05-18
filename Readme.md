@@ -1,1 +1,1 @@
-Este é um repositório de estudos pessoais sobre HTML, CSS e Javascript.
+Este é um repositório de estudos pessoais sobre HTML e CSS.
